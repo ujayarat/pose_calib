@@ -1,0 +1,12 @@
+%YAML:1.0
+---
+v4l_id: "046d_HD_Webcam_C525_0320EC60" # ls /dev/v4l/by-id/*
+terminate_var: 0.1
+image_width: 1280
+image_height: 720
+board_x: 9
+board_y: 6
+square_len: 280
+marker_len: 182
+dictionary: 0
+pt_min_markers: 1
